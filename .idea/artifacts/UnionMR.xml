@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UnionMR">
+    <output-path>$PROJECT_DIR$/out/artifacts/UnionMR</output-path>
+    <root id="archive" name="UnionMR.jar">
+      <element id="module-output" name="UnionMr" />
+      <element id="library" level="project" name="jar" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

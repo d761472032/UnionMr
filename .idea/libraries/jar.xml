@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="file://D:/package/开发相关安装包/hadoop/jar-2.7.2/jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/package/开发相关安装包/hadoop/jar-2.7.2/jar" />
+    </SOURCES>
+    <jarDirectory url="file://D:/package/开发相关安装包/hadoop/jar-2.7.2/jar" recursive="false" />
+    <jarDirectory url="file://D:/package/开发相关安装包/hadoop/jar-2.7.2/jar" recursive="false" type="SOURCES" />
+  </library>
+</component>
